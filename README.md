@@ -2,7 +2,7 @@
 Repo for class materials for  stat 579
 
 ## Username: 
-  -Josue Chinchilla
+  -josuechinchilla
 
 ## Three main activities in the past month:
   - Planning a wedding.
